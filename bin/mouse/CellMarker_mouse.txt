@@ -1,0 +1,65 @@
+Type	Marker
+Tcell	Cd3d
+Tcell	Cd3e
+Tcell	Ptprc
+Bcell	Cd79a
+Bcell	Ms4a1
+Bcell	Cd19
+Plasma	Jchain
+Plasma	Tnfrsf17
+NK	Tyrobp
+NK	Ncr1
+NK	Ncam1
+NK	Klrb1c
+NK	Eomes
+Macrophage	Lyz2
+Macrophage	C1qa
+Macrophage	C1qb
+Macrophage	Vegfa
+Macrophage	Spp1
+Monocyte	Ly6c2
+Monocyte	Nr4a1
+Monocyte	Itgal
+Monocyte	Fcn1
+Monocyte	Vcan
+Monocyte	Cd14
+Monocyte	Fcgr3a
+DC	Cd209a
+DC	Clec9a
+DC	Xcr1
+DC	Ccl22
+DC	Ccr7
+pDC	Siglech
+pDC	Ly6d
+Mast	Ms4a2
+Mast	Cpa3
+Endothelia	Pecam1
+Endothelia	Cldn5
+Endothelia	Vwf
+Epithelia	Epcam
+Epithelia	Krt8
+Epithelia	Krt18
+Fibroblast	Dcn
+Fibroblast	Col1a1
+Fibroblast	Col1a2
+SMC	Acta2
+SMC	Tagln
+SMC	Myl9
+glial_cells	Sox10
+glial_cells	Cdh19
+glial_cells	Plp1
+neurons	Syp
+neurons	Syt1
+neurons	Rbfox1
+interstitial cells of Cajal（ICC）	Kit
+interstitial cells of Cajal（ICC）	Ano1
+neurons	Shank3
+Excitatory Motor Neurons-Interneurons	Chat
+Excitatory Motor Neurons-Interneurons	Penk
+Excitatory Motor Neurons-Interneurons	Tac1
+Inhibitory Motor Neurons	Vip
+Inhibitory Motor Neurons	Nos1
+Secreto Motor-vasodilator	Glp2r
+Migratory Neural Crest	Sox10
+Sensory Neurons	Cdh8
+putative sensory neurons	Vipr2

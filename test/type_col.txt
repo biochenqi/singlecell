@@ -1,0 +1,6 @@
+type	col
+CD4+TN	#dfc27d
+CD4+TRM	#689e45
+TFH	#d8869d
+TH17	#5a8ca8
+Treg	#d6604d

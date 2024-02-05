@@ -1,0 +1,38 @@
+Naïve	Tcf7
+Naïve	Sell
+Naïve	Lef1
+Naïve	Ccr7
+Exhausted	Lag3
+Exhausted	Tigit
+Exhausted	Pdcd1
+Exhausted	Havcr2
+Cytotoxic	Il2
+Cytotoxic	Gzma
+Cytotoxic	Gnly
+Cytotoxic	Prf1
+Cytotoxic	Gzmb
+Cytotoxic	Gzmk
+Cytotoxic	Ifng
+Cytotoxic	Nkg7
+Treg	Il2ra
+Treg	Foxp3
+Treg	Ikzf2
+Treg	Tgfb1
+Treg	Tgfb3
+Treg	Tgfbi
+Treg	Tgfbr1
+T follicular helper	Maf
+T follicular helper	Cxcr5
+T follicular helper	Pdcd1
+T helper17	Irf4
+T helper17	Crem
+T helper17	Nr4a2
+T helper1	Stat4
+T helper1	Ifng
+T helper1	Il12rb2
+T helper2	Gata3
+T helper2	Stat6
+T helper2	Il4
+gamma delta T	Trdc
+gamma delta T	Trgc2
+gamma delta T	Trgc1

@@ -1,0 +1,104 @@
+type	Gene
+CD4+TN	Ccr7
+CD4+TN	Lef1
+CD4+TN	Sell
+CD4+TN	Tcf7
+CD4+TN	Cd27
+CD4+TN	Cd28
+CD4+TN	S1pr1
+CD4+Blood-TCM	Anxa1
+CD4+Blood-TCM	Ccr7
+CD4+Blood-TCM	Sell
+CD4+Blood-TCM	Ptger2
+CD4+Blood-TCM	Icam2
+CD4+Blood-TCM	Anxa1
+CD4+Blood-TCM	Anxa2
+CD4+Blood-TCM	S1pr1
+CD4+Normal-TCM	Ccr7
+CD4+Normal-TCM	Tcf7
+CD4+Normal-TCM	Rgs1
+CD4+Normal-TCM	Cd69
+CD4+TEMRA/TEFF	Gnly
+CD4+TEMRA/TEFF	Klrg1
+CD4+TEMRA/TEFF	Cx3crt
+CD4+TEMRA/TEFF	Nkg7
+CD4+TEMRA/TEFF	Prft
+CD4+TEMRA/TEFF	Gnly
+CD4+TEMRA/TEFF	Gzmh
+CD4+TEMRA/TEFF	Tbx21
+CD4+TEMRA/TEFF	Ctsw
+CD4+TEMRA/TEFF	S1pr1
+CD4+TEMRA/TEFF	S1pr5
+CD4+TRM	Cxcr6
+CD4+TRM	Cd69
+CD4+TRM	Klrb1
+CD4+TRM	Ptger4
+CD4+TRM	Il7r
+CD4+TRM	Cxcr6
+CD4+TRM	Myadm
+CD4+TRM	Nr4a1
+CD4+TRM	Nr4a2
+CD4+TRM	Nr4a3
+TFH	Cxcr5
+TFH	Bcl6
+TFH	Ica1
+TFH	Tox
+TFH	Tox2
+TFH	Il6st
+TFH	Mageh1
+TFH	Btla
+TFH	Icos
+TFH	Pdcd1
+TFH	Cd200
+CD4+TEM/TH1-like	Gzmk
+CD4+TEM/TH1-like	Gzma
+CD4+TEM/TH1-like	Ccls
+CD4+TEM/TH1-like	Ifng
+CD4+TEM/TH1-like	Runx3
+CD4+TEM/TH1-like	Eomes
+CD4+TEM/TH1-like	Cxcr3
+CD4+TEM/TH1-like	Cxcr4
+CD4+TEM/TH1-like	Cd44
+TH17	Il23r
+TH17	Rorc
+TH17	Il17a
+TH17	Furin
+TH17	Ctsh
+TH17	Ccr6
+TH17	Klrb1
+TH17	Capg
+TH17	Itgae
+TH1-like T cells	Cxcl13
+TH1-like T cells	Ifng
+TH1-like T cells	Cxcr3
+TH1-like T cells	Bhlhe40
+TH1-like T cells	Gzmb
+TH1-like T cells	Pdcd1
+TH1-like T cells	Havcr2
+TH1-like T cells	Icos
+TH1-like T cells	Igflr1
+TH1-like T cells	Itgae
+Blood-Treg	Foxp3
+Blood-Treg	Il2ra
+Blood-Treg	Il10ra
+Blood-Treg	Ikzf2
+Blood-Treg	Rtkn2
+Blood-Treg	Cdc25b
+Blood-Treg	S1pr
+TFR	Foxp3
+TFR	Il2ra
+TFR	Cxcr5
+TFR	Pdcd1
+TFR	Il10
+TFR	Ccr4
+TFR	Cd69
+Tumor-Treg	Ctla4
+Tumor-Treg	Foxp3
+Tumor-Treg	Tnfrsf18
+Tumor-Treg	Layn
+Tumor-Treg	Tnfrsf9
+Tumor-Treg	Ikzf2
+Tumor-Treg	Rtkn2
+Tumor-Treg	Ctla4
+Tumor-Treg	Batf
+Tumor-Treg	Il21r

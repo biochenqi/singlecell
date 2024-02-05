@@ -1,0 +1,40 @@
+Type	Gene
+Mast	Tpsab1
+Mast	Cpa3
+Mast	Ms4a2
+Mast	Tpsd1
+pDC	Lilra4
+pDC	Slc15a4
+pDC	Pld4
+cDC2	Cd1c
+cDC2	Clec10a
+cDC2	Fcgr2b
+cDC2	Fcer1a
+cDC1	Batf3
+cDC1	Xcr1
+cDC1	Clec9a
+cDC1	Ptdss1
+classical monocyte	Cd14
+classical monocyte	Fcn1
+classical monocyte	Cd36
+classical monocyte	Clec12a
+classical monocyte	S100a8
+classical monocyte	Cxcl14
+nonclassical monocyte	Cd16
+nonclassical monocyte	Fcgr3a
+nonclassical monocyte	Fcgr3b
+nonclassical monocyte	Lilra1
+nonclassical monocyte	Cxc3cr1
+NLRP3MACRO	Nlrp3
+NLRP3MACRO	Aqp9
+NLRP3MACRO	Gpr132
+PLTPMACRO	Pltp
+PLTPMACRO	Lyve1
+PLTPMACRO	Il10
+PLTPMACRO	Stab1
+IL1BMACRO	Il1b
+IL1BMACRO	C1qa
+IL1BMACRO	C1qb
+IL1BMACRO	C1qc
+SPP1TAM	Spp1
+SPP1TAM	Il1rn

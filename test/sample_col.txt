@@ -1,0 +1,6 @@
+aa	oo
+mBrain	yellow
+tLung	white
+nLung	black
+mLN	blue
+nLN	red

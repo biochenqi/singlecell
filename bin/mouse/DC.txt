@@ -1,0 +1,17 @@
+Type	Gene
+DC1	Xcr1
+DC1	Rab7b
+DC1	Cadm1
+DC2	Cebpb
+DC2	Tnfsf12
+DC3	Fscn1
+DC3	Ccr7
+DC3	Ccl22
+DC3	Ccl22
+DC3	Marcksl1
+DC3	Cd274
+DC3	Il12b
+pDC	Tcf4
+pDC	Bcl11a
+pDC	Pld4
+pDC	Runx2
