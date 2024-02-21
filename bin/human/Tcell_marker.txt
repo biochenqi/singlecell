@@ -1,0 +1,47 @@
+CD4+ T	Il7R
+CD4+ T	CD4
+CD8+ T	CD8A
+CD8+ T	CD8B
+Naïve	TCF7
+Naïve	SELL
+Naïve	LEF1
+Naïve	CCR7
+Exhausted	LAG3
+Exhausted	TIGIT
+Exhausted	PDCD1
+Exhausted	HAVCR2
+Cytotoxic	IL2
+Cytotoxic	GZMA
+Cytotoxic	GNLY
+Cytotoxic	PRF1
+Cytotoxic	GZMB
+Cytotoxic	GZMK
+Cytotoxic	IFNG
+Cytotoxic	NKG7
+Treg	IL2RA
+Treg	FOXP3
+Treg	IKZF2
+Treg	TGFB1
+Treg	TGFB3
+Treg	TGFBI
+Treg	TGFBR1
+T follicular helper	MAF
+T follicular helper	CXCR5
+T follicular helper	PDCD1
+T follicular helper	CXCL13
+T helper 17	IRF4
+T helper 17	CREM
+T helper 17	NR4A2
+T helper 1	STAT4
+T helper 1	IFNG
+T helper 1	IL12RB2
+T helper 2	GATA3
+T helper 2	STAT6
+T helper 2	IL4
+gamma delta T	TRDC
+gamma delta T	TRGC2
+gamma delta T	TRGC1
+NK	XCL1
+NK	FCGR3A
+NK	KLRD1
+NK	KLRF1
